@@ -1,0 +1,27 @@
+c:\users\am7\documents\visual studio 2017\Projects\ShopCart\ShopCart\bin\Debug\ShopCart.exe
+c:\users\am7\documents\visual studio 2017\Projects\ShopCart\ShopCart\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\bin\Debug\ShopCart.exe.config
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.AdminPage.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.Alert.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.Login.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.MainShop.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.Properties.Resources.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.Register.resources
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.csproj.GenerateResource.Cache
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.exe
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.pdb
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\bin\Debug\ShopCart.pdb
+C:\Users\AM7\Documents\Visual Studio 2017\Projects\ShopCart\ShopCart\obj\Debug\ShopCart.csprojResolveAssemblyReference.cache
+D:\ShopCart\ShopCart\bin\Debug\ShopCart.exe.config
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.exe
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.pdb
+D:\ShopCart\ShopCart\bin\Debug\ShopCart.exe
+D:\ShopCart\ShopCart\bin\Debug\ShopCart.pdb
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.csprojResolveAssemblyReference.cache
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.AdminPage.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.Alert.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.Login.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.MainShop.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.Properties.Resources.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.Register.resources
+D:\ShopCart\ShopCart\obj\Debug\ShopCart.csproj.GenerateResource.Cache
